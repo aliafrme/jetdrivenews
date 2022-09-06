@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jetdrivenews/static/css/main.d0ef5196.css",
+    "main.js": "/jetdrivenews/static/js/main.81e10d02.js",
+    "static/js/787.53e631a7.chunk.js": "/jetdrivenews/static/js/787.53e631a7.chunk.js",
+    "index.html": "/jetdrivenews/index.html",
+    "main.d0ef5196.css.map": "/jetdrivenews/static/css/main.d0ef5196.css.map",
+    "main.81e10d02.js.map": "/jetdrivenews/static/js/main.81e10d02.js.map",
+    "787.53e631a7.chunk.js.map": "/jetdrivenews/static/js/787.53e631a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ef5196.css",
+    "static/js/main.81e10d02.js"
+  ]
+}
