@@ -1,0 +1,70 @@
+
+.App{
+
+  background: #0b0b0b;
+}
+
+Link{
+  color:#000;
+}
+
+
+.App-link :hover{
+  color: var(--standard-color);
+}
+
+.h2{
+  color: #fff;
+  --root-font-size: 20;
+  text-align: center;
+}
+.img{
+  width: 40px;
+  margin: auto;
+  background-position: 50%;
+  background-position-x: 50%;
+left: 0;
+top: 0;
+  background-position-y: center;
+  background-repeat: no-repeat;
+background-size: contain;
+border-radius: 5px;
+}
+.img-2{
+  text-align: center;
+  background-position: 50%;
+  background-position-x: 50%;
+  background-position-y: center;
+  left: 0;
+  top: 0;
+  right: 0;
+ 
+background-size: contain;
+
+left: 0;
+
+
+top: 0;
+
+
+}
+.navbar-12{
+  z-index:1;
+}
+.navbar-button{
+  margin-top: -130px;
+}
+.p-home{
+  color: #fff;
+text-decoration: none;
+  text-align: center;
+ 
+}
+.img-1{
+  width: 300px;
+  text-align: center;
+  border-radius: 0 9px 0 9px;
+}
+.lopm{
+  text-align: center;
+}

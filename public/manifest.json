@@ -1,0 +1,25 @@
+{
+  "short_name": "NEWS",
+  "name": "JETdrive news",
+  "icons": [
+    {
+      "src": "https://user-images.githubusercontent.com/111320610/188438837-a0281e39-879a-4c70-8756-37268b5e3e3d.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://user-images.githubusercontent.com/111320610/188438837-a0281e39-879a-4c70-8756-37268b5e3e3d.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://user-images.githubusercontent.com/111320610/188438837-a0281e39-879a-4c70-8756-37268b5e3e3d.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fcaf17",
+  "background_color": "#ffffff"
+}
