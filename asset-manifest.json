@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jetdrivenews/static/css/main.8297608f.css",
-    "main.js": "/jetdrivenews/static/js/main.bfef467f.js",
+    "main.css": "/jetdrivenews/static/css/main.012c92c0.css",
+    "main.js": "/jetdrivenews/static/js/main.7718f38a.js",
     "static/js/787.53e631a7.chunk.js": "/jetdrivenews/static/js/787.53e631a7.chunk.js",
     "index.html": "/jetdrivenews/index.html",
-    "main.8297608f.css.map": "/jetdrivenews/static/css/main.8297608f.css.map",
-    "main.bfef467f.js.map": "/jetdrivenews/static/js/main.bfef467f.js.map",
+    "main.012c92c0.css.map": "/jetdrivenews/static/css/main.012c92c0.css.map",
+    "main.7718f38a.js.map": "/jetdrivenews/static/js/main.7718f38a.js.map",
     "787.53e631a7.chunk.js.map": "/jetdrivenews/static/js/787.53e631a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8297608f.css",
-    "static/js/main.bfef467f.js"
+    "static/css/main.012c92c0.css",
+    "static/js/main.7718f38a.js"
   ]
 }

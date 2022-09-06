@@ -23,7 +23,7 @@ function App() {
     <header>
     <nav class="img-2">
     
-     <img style={{ width: 40+"px",}} className="img" src="https://user-images.githubusercontent.com/111320610/188438837-a0281e39-879a-4c70-8756-37268b5e3e3d.jpg"></img>
+     <img style={{ width: 40+"px", height:"40px" ,}} className="img" src="https://user-images.githubusercontent.com/111320610/188438837-a0281e39-879a-4c70-8756-37268b5e3e3d.jpg"></img>
     
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
